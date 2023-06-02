@@ -1,0 +1,15 @@
+.movie-main-container span {
+    display: block;
+    padding: 20px 48px;
+    text-align: justify;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 14px;
+}
+.movie-main-container img{
+    width: 100%;
+    
+}
+.movie-main-container span {
+    padding-bottom: 15px;
+}

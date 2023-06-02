@@ -1,0 +1,23 @@
+.serch-container{
+    margin: 10px;
+    /* width: 320px; */
+    height: 47px;
+    border: 1px solid #6A536A;
+    border-radius: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.serch-container input{
+    text-align: center;
+    width: 80%;
+    font-family: 'Istok Web';
+    font-size: 12px;
+    font-style: normal;
+    border: #FFFCF3;
+    outline: none;
+    background-color: transparent;
+    color: #6A536A;
+}

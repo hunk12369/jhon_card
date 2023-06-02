@@ -1,0 +1,14 @@
+.top-cast-container {
+    height: 14px;
+    font-weight: 700;
+    text-align: center;
+    
+}
+.card-container {
+    display: flex;
+    justify-content: space-around;
+}
+h6 {
+    margin-top: 0;
+    
+}

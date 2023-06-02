@@ -1,0 +1,10 @@
+.chip{
+    width: auto;
+    height: 22px;
+    border: 1px solid #6A536A;
+    border-radius: 11px;
+    display: flex;
+    font-size: 14px;
+    padding: 2px;
+    flex-direction: column;
+}
